@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.ishang.world/1317400633/</loc>
-    
-    <lastmod>2021-09-13</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.ishang.world/contact/index.html</loc>
     
-    <lastmod>2021-09-13</lastmod>
+    <lastmod>2021-09-14</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.ishang.world/categories/index.html</loc>
+    
+    <lastmod>2021-09-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.ishang.world/1317400633/</loc>
     
     <lastmod>2021-09-13</lastmod>
     
@@ -130,27 +130,6 @@
 
   
   <url>
-    <loc>https://www.ishang.world/tags/%E5%8E%9F%E5%88%9B/</loc>
-    <lastmod>2021-09-14</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.ishang.world/tags/%E6%95%85%E4%BA%8B%E5%92%8C%E4%BD%A0/</loc>
-    <lastmod>2021-09-14</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.ishang.world/tags/%E5%A4%A7%E5%AD%A6/</loc>
-    <lastmod>2021-09-14</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.ishang.world/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2021-09-14</lastmod>
     <changefreq>daily</changefreq>
@@ -165,7 +144,7 @@
   </url>
   
   <url>
-    <loc>https://www.ishang.world/tags/%E6%95%A3%E6%96%87/</loc>
+    <loc>https://www.ishang.world/tags/%E6%95%85%E4%BA%8B%E5%92%8C%E4%BD%A0/</loc>
     <lastmod>2021-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -178,17 +157,38 @@
     <priority>0.6</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://www.ishang.world/categories/%E6%A0%A1%E5%9B%AD%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://www.ishang.world/tags/%E5%8E%9F%E5%88%9B/</loc>
     <lastmod>2021-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
+    <loc>https://www.ishang.world/tags/%E5%A4%A7%E5%AD%A6/</loc>
+    <lastmod>2021-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ishang.world/tags/%E6%95%A3%E6%96%87/</loc>
+    <lastmod>2021-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
     <loc>https://www.ishang.world/categories/%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3/</loc>
+    <lastmod>2021-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ishang.world/categories/%E6%A0%A1%E5%9B%AD%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2021-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
