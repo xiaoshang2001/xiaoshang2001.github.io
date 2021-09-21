@@ -1,4 +1,3 @@
 User-agent: *
-Allow: /
-
+disAllow: /
 Sitemap: https://ishang.world/sitemap.xml
